@@ -1,5 +1,7 @@
 # Hi, I'm Md. Ruhul Amin 👋
 
+**DUET | CSE 17th Batch | C, C++, Python, Git | Competitive Programmer | Leetcode Problem Solver**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/eruhul/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/cseruhul)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red)](mailto:md.ruhul.amin.40576@gmail.com)
