@@ -1,4 +1,4 @@
-# Hi, I'm Md. Ruhul Amin 👋
+# Hi, I'm Md. Ruhul Amin
 
 **DUET | CSE 17th Batch | C, C++, Python, Git | Competitive Programmer | Leetcode Problem Solver**
 
