@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/cseruhul)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red)](mailto:md.ruhul.amin.40576@gmail.com)
 
-I am a passionate Computer Science instructor with experience in teaching, mentoring, and developing comprehensive curriculum for polytechnic institutes. My expertise includes programming languages, algorithms, database management, and networking protocols.
+As a Computer Science Engineering graduate, I have developed a robust passion for both programming andnetworking. My strong foundation in computer science enables me to approach complex problems withenthusiasm. I am eager to apply my skills to real-world projects, driven by a commitment to continuouslearning and excellence. With a strong work ethic and a proactive attitude, I am confident in my ability todeliver high-quality work and make a significant impact, whether as a programmer.
 
 ## 🚀 About Me
 
