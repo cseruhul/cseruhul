@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=Hi,+I'm+Md.+Ruhul+Amin!)](https://git.io/typing-svg)
 
-**<p style="text-align:justify">DUET | CSE 17th Batch | C, C++, Python, Git | Competitive Programmer | Leetcode Problem Solver | Tech enthusiast | Deep love for data structures and algorithms<p>**
+**<p style="text-align:justify">DUET | CSE 17th Batch | C, C++, Python, Git | Competitive Programmer | Leetcode Problem Solver | Tech enthusiast | Passionate about data structures and algorithms<p>**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/eruhul/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/cseruhul)
