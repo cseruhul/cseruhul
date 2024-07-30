@@ -12,8 +12,8 @@
 
 - 🎓 **Education:** B.Sc. in Computer Science and Engineering from Dhaka University of Engineering & Technology, Gazipur (2022)
 - 📚 **Experience:** Instructor at [CTT Polytechnic Institute] (November 2022 – April 2024)
-- 🌐 **Portfolio:** [Visit my portfolio](https://cseruhul.github.io/)
-- 📄 **Resume:** [Check out my resume](https://cseruhul.github.io/)
+- 🌐 **Portfolio:** [My portfolio](https://cseruhul.github.io/)
+- 📄 **Resume:** [My resume](ruhul_amin_resume.pdf)
 
 ## 🛠 Skills
 
@@ -42,12 +42,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Teaching & Mentoring
-
-- Curriculum Development
-- Student Guidance
-- Project Supervision
-
 ## 💼 Experience
 
 **Instructor, [CTT Polytechnic Institute]**  
@@ -62,8 +56,8 @@ _November 2022 – April 2024_
 
 ## 📫 Contact
 
-- **Email:** [md.ruhul.amin.40576@gmail.com](mailto:md.ruhul.amin.40576@gmail.com)
-- **LinkedIn:** [linkedin.com/in/eruhul/](https://www.linkedin.com/in/eruhul/)
-- **GitHub:** [github.com/cseruhul](https://github.com/cseruhul)
+- **Email:** [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red)](mailto:md.ruhul.amin.40576@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/eruhul/)
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/cseruhul)
 
 Thank you for visiting my profile! Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.
